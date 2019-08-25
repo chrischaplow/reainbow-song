@@ -1,2 +1,2 @@
 # reainbow-song
-# this is the good news.
+# this is the good news indeed.
